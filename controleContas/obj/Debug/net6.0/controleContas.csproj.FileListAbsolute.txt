@@ -1,0 +1,14 @@
+C:\Users\Alisson\source\repos\instituicaoFinanceira\controleContas\bin\Debug\net6.0\controleContas.exe
+C:\Users\Alisson\source\repos\instituicaoFinanceira\controleContas\bin\Debug\net6.0\controleContas.deps.json
+C:\Users\Alisson\source\repos\instituicaoFinanceira\controleContas\bin\Debug\net6.0\controleContas.runtimeconfig.json
+C:\Users\Alisson\source\repos\instituicaoFinanceira\controleContas\bin\Debug\net6.0\controleContas.dll
+C:\Users\Alisson\source\repos\instituicaoFinanceira\controleContas\bin\Debug\net6.0\controleContas.pdb
+C:\Users\Alisson\source\repos\instituicaoFinanceira\controleContas\obj\Debug\net6.0\controleContas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisson\source\repos\instituicaoFinanceira\controleContas\obj\Debug\net6.0\controleContas.AssemblyInfoInputs.cache
+C:\Users\Alisson\source\repos\instituicaoFinanceira\controleContas\obj\Debug\net6.0\controleContas.AssemblyInfo.cs
+C:\Users\Alisson\source\repos\instituicaoFinanceira\controleContas\obj\Debug\net6.0\controleContas.csproj.CoreCompileInputs.cache
+C:\Users\Alisson\source\repos\instituicaoFinanceira\controleContas\obj\Debug\net6.0\controleContas.dll
+C:\Users\Alisson\source\repos\instituicaoFinanceira\controleContas\obj\Debug\net6.0\refint\controleContas.dll
+C:\Users\Alisson\source\repos\instituicaoFinanceira\controleContas\obj\Debug\net6.0\controleContas.pdb
+C:\Users\Alisson\source\repos\instituicaoFinanceira\controleContas\obj\Debug\net6.0\controleContas.genruntimeconfig.cache
+C:\Users\Alisson\source\repos\instituicaoFinanceira\controleContas\obj\Debug\net6.0\ref\controleContas.dll
