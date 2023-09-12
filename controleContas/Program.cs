@@ -9,8 +9,8 @@ public class Program
         try
         {
 
-            Banco banco1 = new Banco { Numero = 1, Nome = "Banco XYZ" };
-            Agencia agencia1 = new Agencia { Numero = 123, CEP = "12345-678", Telefone = "123-456-7890", Banco = banco1 };
+            Banco banco1 = new Banco { Numero = 1, Nome = "Banco VR" };
+            Agencia agencia1 = new Agencia { Numero = 001, CEP = "12345-678", Telefone = "123-456-7890", Banco = banco1 };
             Cliente cliente1 = new Cliente("Alfredo", 2003, "12345678910");
             Cliente cliente2 = new Cliente("Pedro", 2000, "78942587652");
             Conta conta1 = new Conta(123456, 1000, cliente1, agencia1);
